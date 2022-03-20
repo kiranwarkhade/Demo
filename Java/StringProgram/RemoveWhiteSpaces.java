@@ -10,9 +10,9 @@ class RemoveWhiteSpaces
   
         StringBuffer sb = new StringBuffer();
   
-        for (int i = 0; i &lt; chars.length; i++)
+        for (int i = 0;  i<= chars.length; i++)
         {
-            if( (chars[i] != ' ') &amp;&amp; (chars[i] != '\t') )
+            if( (chars[i] != ' ') && (chars[i] != '\t') )
             {
                 sb.append(chars[i]);
             }
