@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author omsai
- *
- */
-module Demo {
-}
