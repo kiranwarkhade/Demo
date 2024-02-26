@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Array {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Arrays");
 		int[] a1= {1,3,5,7};
 		int[] a2= {2,4,6,8};
 		
